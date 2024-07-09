@@ -31,6 +31,6 @@ shiboken2==5.15.2.1
 tomli==2.0.1
 urllib3==2.2.1
 whichcraft==0.6.1
-zipp==3.18.1
+zipp==3.19.1
 zope.event==5.0
 zope.interface==6.2
